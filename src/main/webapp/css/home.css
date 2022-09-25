@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+/*
+body{
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #0ec4ac;
+    
+}
+*/
+div{
+	margin-left:0%;
+	margin-top:18%;
+	background-color: black;
+	height: 10%;
+	width:15%;
+	
+}
+body{
+	background-image:url("E:/aman/hsbc training/Online Auction/src/main/webapp/img/5.jpg");
+}
+h1{
+	margin-left:40%;
+	margin-top:1%;
+	font-size:40px;
+}

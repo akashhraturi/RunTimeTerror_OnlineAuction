@@ -1,0 +1,59 @@
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0ec4ac;
+}
+
+.form_container{
+  max-width: 200px;
+  margin: 3 rem auto;
+  border: 8px solid black;
+  padding: 3rem;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size-adjust: auto;
+
+}
+
+ form_container_input ,textarea{
+    display: block;
+    width: 100%;
+    line-height: 30px;
+  }
+
+ form_container.input_field{
+    display: block;
+    padding : 10%;
+
+    font-family: "Lucida Console", "Courier New", monospace;
+
+  }
+img{
+
+  background-position: center;
+  margin-left: 25%;
+  height:60%;
+  width: 40%;
+
+  border-radius: 30%;
+}
+.button{
+  display: block;
+  width: 88%;
+  background-color: #4681f4;
+}
+.input_field_select_option{
+  display: block;
+  width: 100%;
+  position: relative;
+}
+.input[type=date] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.form_wrapper{
+  background-color: #43f1da;
+}
